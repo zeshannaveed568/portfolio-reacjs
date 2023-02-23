@@ -1,5 +1,4 @@
 ## Porfolio-reactjs
-* https://youtubebinjanportfolio.pages.dev
 
 ## Fonts link
   * https://stijndv.com/fonts/Eudoxus-Sans.css
